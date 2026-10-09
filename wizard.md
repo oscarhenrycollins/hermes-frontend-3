@@ -6,6 +6,7 @@ type: view
 category: interface
 version: 0.1.0+1af684e
 summary: A Hermes Desktop-style interface in the browser.
+icon: icon.png
 license: MIT
 source: https://github.com/oscarhenrycollins/hermes-frontend-3
 runtime:
