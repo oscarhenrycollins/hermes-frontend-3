@@ -6,7 +6,7 @@ type: view
 version: 0.1.0+1af684e
 summary: Desktop-style browser UI for your existing Hermes Agent.
 license: MIT
-source: https://github.com/minhyeong112/hermes-frontend-3
+source: https://github.com/mistermizel/hermes-frontend-3
 runtime:
   kind: runtipi
   config: runtipi/config.json
