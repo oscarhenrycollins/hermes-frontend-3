@@ -3,8 +3,9 @@ wizard: 0.2
 id: hermes-frontend-3
 name: Hermes Frontend 3
 type: view
+category: interface
 version: 0.1.0+1af684e
-summary: Desktop-style browser UI for your existing Hermes Agent.
+summary: A Hermes Desktop-style interface in the browser.
 license: MIT
 source: https://github.com/oscarhenrycollins/hermes-frontend-3
 runtime:
@@ -20,4 +21,4 @@ provides:
 
 # Hermes Frontend 3
 
-Desktop-style browser UI for your existing Hermes Agent.
+A Hermes Desktop-style interface in the browser.
