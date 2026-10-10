@@ -1,11 +1,11 @@
 ---
 wizard: 0.2
 id: hermes-frontend-3
-name: Hermes Frontend 3
+name: Hermes Desktop in Browser
 type: view
 category: interface
 version: 0.1.0+1af684e
-summary: A Hermes Desktop-style interface in the browser.
+summary: The Hermes Desktop experience in your browser, connected to the Hermes Agent on your Wizard.
 icon: icon.png
 license: MIT
 source: https://github.com/oscarhenrycollins/hermes-frontend-3
@@ -22,6 +22,6 @@ uses:
 - hermes-agent
 ---
 
-# Hermes Frontend 3
+# Hermes Desktop in Browser
 
 A Hermes Desktop-style interface in the browser.

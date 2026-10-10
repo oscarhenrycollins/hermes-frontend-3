@@ -1,4 +1,4 @@
-# Hermes Frontend 3
+# Hermes Desktop in Browser
 
 Desktop-style browser UI for your existing Hermes Agent.
 
