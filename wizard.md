@@ -18,6 +18,8 @@ view:
   port: 9120
 provides:
 - agent-ui
+uses:
+- hermes-agent
 ---
 
 # Hermes Frontend 3
