@@ -4,6 +4,7 @@ id: hermes-frontend-3
 name: Hermes Desktop in Browser
 type: view
 category: interface
+tags: [productivity, communication]
 version: 0.1.0+1af684e
 summary: The Hermes Desktop experience in your browser, connected to the Hermes Agent on your Wizard.
 icon: icon.png
