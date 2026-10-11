@@ -10,11 +10,11 @@
     "media"
   ],
   "description": "Community browser extraction of Hermes Desktop. Connects to a separately installed Hermes Agent without replacing it.",
-  "tipi_version": 3,
+  "tipi_version": 4,
   "version": "1af684e-1",
   "source": "https://github.com/przbadu/hermes-ui",
   "website": "https://github.com/przbadu/hermes-ui",
-  "exposable": false,
+  "exposable": true,
   "supported_architectures": [
     "amd64",
     "arm64"
